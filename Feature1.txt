@@ -1,2 +1,3 @@
 Implementation of feature 1
 Added feature 2 by other developer outside my pc
+Added feature to check in to feature branch 
